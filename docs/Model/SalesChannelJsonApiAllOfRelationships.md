@@ -1,0 +1,45 @@
+# # SalesChannelJsonApiAllOfRelationships
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**currencies** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsCurrencies**](SalesChannelJsonApiAllOfRelationshipsCurrencies.md) |  | [optional]
+**languages** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsLanguages**](SalesChannelJsonApiAllOfRelationshipsLanguages.md) |  | [optional]
+**countries** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsCountries**](SalesChannelJsonApiAllOfRelationshipsCountries.md) |  | [optional]
+**payment_methods** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsPaymentMethods**](SalesChannelJsonApiAllOfRelationshipsPaymentMethods.md) |  | [optional]
+**shipping_methods** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsShippingMethods**](SalesChannelJsonApiAllOfRelationshipsShippingMethods.md) |  | [optional]
+**type** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsType**](SalesChannelJsonApiAllOfRelationshipsType.md) |  | [optional]
+**language** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsLanguage**](SalesChannelJsonApiAllOfRelationshipsLanguage.md) |  | [optional]
+**customer_group** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsCustomerGroup**](SalesChannelJsonApiAllOfRelationshipsCustomerGroup.md) |  | [optional]
+**currency** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsCurrency**](SalesChannelJsonApiAllOfRelationshipsCurrency.md) |  | [optional]
+**payment_method** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsPaymentMethod**](SalesChannelJsonApiAllOfRelationshipsPaymentMethod.md) |  | [optional]
+**shipping_method** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsShippingMethod**](SalesChannelJsonApiAllOfRelationshipsShippingMethod.md) |  | [optional]
+**country** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsCountry**](SalesChannelJsonApiAllOfRelationshipsCountry.md) |  | [optional]
+**orders** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsOrders**](SalesChannelJsonApiAllOfRelationshipsOrders.md) |  | [optional]
+**customers** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsCustomers**](SalesChannelJsonApiAllOfRelationshipsCustomers.md) |  | [optional]
+**home_cms_page** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsHomeCmsPage**](SalesChannelJsonApiAllOfRelationshipsHomeCmsPage.md) |  | [optional]
+**domains** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsDomains**](SalesChannelJsonApiAllOfRelationshipsDomains.md) |  | [optional]
+**system_configs** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsSystemConfigs**](SalesChannelJsonApiAllOfRelationshipsSystemConfigs.md) |  | [optional]
+**navigation_category** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsNavigationCategory**](SalesChannelJsonApiAllOfRelationshipsNavigationCategory.md) |  | [optional]
+**footer_category** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsFooterCategory**](SalesChannelJsonApiAllOfRelationshipsFooterCategory.md) |  | [optional]
+**service_category** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsServiceCategory**](SalesChannelJsonApiAllOfRelationshipsServiceCategory.md) |  | [optional]
+**product_visibilities** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsProductVisibilities**](SalesChannelJsonApiAllOfRelationshipsProductVisibilities.md) |  | [optional]
+**hreflang_default_domain** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsHreflangDefaultDomain**](SalesChannelJsonApiAllOfRelationshipsHreflangDefaultDomain.md) |  | [optional]
+**mail_header_footer** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsMailHeaderFooter**](SalesChannelJsonApiAllOfRelationshipsMailHeaderFooter.md) |  | [optional]
+**newsletter_recipients** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsNewsletterRecipients**](SalesChannelJsonApiAllOfRelationshipsNewsletterRecipients.md) |  | [optional]
+**number_range_sales_channels** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsNumberRangeSalesChannels**](SalesChannelJsonApiAllOfRelationshipsNumberRangeSalesChannels.md) |  | [optional]
+**promotion_sales_channels** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsPromotionSalesChannels**](SalesChannelJsonApiAllOfRelationshipsPromotionSalesChannels.md) |  | [optional]
+**document_base_config_sales_channels** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsDocumentBaseConfigSalesChannels**](SalesChannelJsonApiAllOfRelationshipsDocumentBaseConfigSalesChannels.md) |  | [optional]
+**product_reviews** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsProductReviews**](SalesChannelJsonApiAllOfRelationshipsProductReviews.md) |  | [optional]
+**seo_urls** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsSeoUrls**](SalesChannelJsonApiAllOfRelationshipsSeoUrls.md) |  | [optional]
+**seo_url_templates** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsSeoUrlTemplates**](SalesChannelJsonApiAllOfRelationshipsSeoUrlTemplates.md) |  | [optional]
+**main_categories** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsMainCategories**](SalesChannelJsonApiAllOfRelationshipsMainCategories.md) |  | [optional]
+**product_exports** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsProductExports**](SalesChannelJsonApiAllOfRelationshipsProductExports.md) |  | [optional]
+**analytics** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsAnalytics**](SalesChannelJsonApiAllOfRelationshipsAnalytics.md) |  | [optional]
+**customer_groups_registrations** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsCustomerGroupsRegistrations**](SalesChannelJsonApiAllOfRelationshipsCustomerGroupsRegistrations.md) |  | [optional]
+**landing_pages** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsLandingPages**](SalesChannelJsonApiAllOfRelationshipsLandingPages.md) |  | [optional]
+**bound_customers** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsBoundCustomers**](SalesChannelJsonApiAllOfRelationshipsBoundCustomers.md) |  | [optional]
+**wishlists** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsWishlists**](SalesChannelJsonApiAllOfRelationshipsWishlists.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

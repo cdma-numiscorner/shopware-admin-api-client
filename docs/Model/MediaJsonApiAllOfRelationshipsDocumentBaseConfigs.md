@@ -1,0 +1,10 @@
+# # MediaJsonApiAllOfRelationshipsDocumentBaseConfigs
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**links** | [**\OpenAPI\ShopwareAdminApiClient\Model\MediaJsonApiAllOfRelationshipsDocumentBaseConfigsLinks**](MediaJsonApiAllOfRelationshipsDocumentBaseConfigsLinks.md) |  | [optional]
+**data** | [**\OpenAPI\ShopwareAdminApiClient\Model\DocumentTypeJsonApiAllOfRelationshipsDocumentBaseConfigsData[]**](DocumentTypeJsonApiAllOfRelationshipsDocumentBaseConfigsData.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

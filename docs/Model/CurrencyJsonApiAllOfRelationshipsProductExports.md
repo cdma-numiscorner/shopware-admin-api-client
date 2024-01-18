@@ -1,0 +1,10 @@
+# # CurrencyJsonApiAllOfRelationshipsProductExports
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**links** | [**\OpenAPI\ShopwareAdminApiClient\Model\CurrencyJsonApiAllOfRelationshipsProductExportsLinks**](CurrencyJsonApiAllOfRelationshipsProductExportsLinks.md) |  | [optional]
+**data** | [**\OpenAPI\ShopwareAdminApiClient\Model\CurrencyJsonApiAllOfRelationshipsProductExportsData[]**](CurrencyJsonApiAllOfRelationshipsProductExportsData.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

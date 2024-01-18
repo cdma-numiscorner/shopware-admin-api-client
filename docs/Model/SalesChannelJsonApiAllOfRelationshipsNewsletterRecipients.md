@@ -1,0 +1,10 @@
+# # SalesChannelJsonApiAllOfRelationshipsNewsletterRecipients
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**links** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannelJsonApiAllOfRelationshipsNewsletterRecipientsLinks**](SalesChannelJsonApiAllOfRelationshipsNewsletterRecipientsLinks.md) |  | [optional]
+**data** | [**\OpenAPI\ShopwareAdminApiClient\Model\LanguageJsonApiAllOfRelationshipsNewsletterRecipientsData[]**](LanguageJsonApiAllOfRelationshipsNewsletterRecipientsData.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

@@ -1,0 +1,10 @@
+# # PaymentMethodJsonApiAllOfRelationshipsPlugin
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**links** | [**\OpenAPI\ShopwareAdminApiClient\Model\PaymentMethodJsonApiAllOfRelationshipsPluginLinks**](PaymentMethodJsonApiAllOfRelationshipsPluginLinks.md) |  | [optional]
+**data** | [**\OpenAPI\ShopwareAdminApiClient\Model\PaymentMethodJsonApiAllOfRelationshipsPluginData**](PaymentMethodJsonApiAllOfRelationshipsPluginData.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

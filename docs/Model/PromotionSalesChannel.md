@@ -1,0 +1,16 @@
+# # PromotionSalesChannel
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **string** |  | [optional]
+**promotion_id** | **string** |  |
+**sales_channel_id** | **string** |  |
+**priority** | **int** |  |
+**created_at** | [**\DateTime**](\DateTime.md) |  | [readonly]
+**updated_at** | [**\DateTime**](\DateTime.md) |  | [optional] [readonly]
+**promotion** | [**\OpenAPI\ShopwareAdminApiClient\Model\Promotion**](Promotion.md) |  | [optional]
+**sales_channel** | [**\OpenAPI\ShopwareAdminApiClient\Model\SalesChannel**](SalesChannel.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

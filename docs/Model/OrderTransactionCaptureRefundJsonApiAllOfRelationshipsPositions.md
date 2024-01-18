@@ -1,0 +1,10 @@
+# # OrderTransactionCaptureRefundJsonApiAllOfRelationshipsPositions
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**links** | [**\OpenAPI\ShopwareAdminApiClient\Model\OrderTransactionCaptureRefundJsonApiAllOfRelationshipsPositionsLinks**](OrderTransactionCaptureRefundJsonApiAllOfRelationshipsPositionsLinks.md) |  | [optional]
+**data** | [**\OpenAPI\ShopwareAdminApiClient\Model\OrderTransactionCaptureRefundJsonApiAllOfRelationshipsPositionsData[]**](OrderTransactionCaptureRefundJsonApiAllOfRelationshipsPositionsData.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

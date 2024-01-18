@@ -1,0 +1,10 @@
+# # LanguageJsonApiAllOfRelationshipsNewsletterRecipients
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**links** | [**\OpenAPI\ShopwareAdminApiClient\Model\LanguageJsonApiAllOfRelationshipsNewsletterRecipientsLinks**](LanguageJsonApiAllOfRelationshipsNewsletterRecipientsLinks.md) |  | [optional]
+**data** | [**\OpenAPI\ShopwareAdminApiClient\Model\LanguageJsonApiAllOfRelationshipsNewsletterRecipientsData[]**](LanguageJsonApiAllOfRelationshipsNewsletterRecipientsData.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
